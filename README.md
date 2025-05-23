@@ -35,3 +35,7 @@
 - git remote add origin <repository 주소> : 현재 프로젝트를 원격 저장소와 연결
 - git remote -v : 원격 저장소 목록 확인
 - git push origin <브랜치> : 원격 저장소의 특정 브랜치에 업로드
+
+## ☁️ 클론
+- git clone <HTTPS주소> <만들고 싶은 폴더 명(생략가능)> : 클론하기.
+- git pull : 동기화 시키기. 
