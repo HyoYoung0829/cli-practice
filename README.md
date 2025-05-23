@@ -27,7 +27,8 @@
 - git switch -c <브랜치치이름> : 최신 문법.
 - git merge <브랜치> : 현재 브랜치에 다른 브랜치 병합
 - git branch -D <이름> : 브랜치 삭제
-
+- git push -u origin <브랜치 이름> : 브랜치 원격 저장소에 업로드.
+- git push origin --delete <브랜치 이름> : 원격 저장소에 있는 브랜치 삭제. 
 ## ☁️ 원격 저장소
 ※ 원격 저장소에 업로드하기 전 반드시 github에 접속하여 새 repository 생성해야 함
 
